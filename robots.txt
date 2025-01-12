@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /faq
+Allow: /list
+
+Sitemap: https://undian.prenges.com/sitemap.xml

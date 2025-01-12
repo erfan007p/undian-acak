@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6742px" height="1184px" viewBox="0 0 6742 1184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Undian Berhadiah</title>
+    <desc>Alat Undian Berhadiah yg membuat pemilihan pemenang undian berhadiah lebih mudah. Pengacakan pemenang lebih mudah dari sebelumnya!</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="luckydraw-logo">
+            <polygon id="Path" fill="#A881E9" points="0 295.996 0 591.993 194.526 408.3"></polygon>
+            <polygon id="Path" fill="#641DD8" points="194.526 408.3 0 591.993 194.526 591.993"></polygon>
+            <polygon id="Path" fill="#B88FFD" points="0 591.993 194.526 775.685 194.526 591.993"></polygon>
+            <polygon id="Path" fill="#641DD8" points="0 888.009 194.526 775.685 0 591.993"></polygon>
+            <polygon id="Path" fill="#663399" points="0 295.996 194.526 408.3 256.344 148"></polygon>
+            <polygon id="Path" fill="#A881E9" points="256.344 148 512.692 224.612 512.692 0"></polygon>
+            <polygon id="Path" points="774.643 151.234 774.643 151.234 774.643 151.239"></polygon>
+            <polygon id="Path" fill="#641DD8" points="512.692 0 512.692 224.612 774.643 151.234"></polygon>
+            <polygon id="Path" fill="#9966CC" points="774.643 151.239 830.856 408.3 1025.385 295.996"></polygon>
+            <polygon id="Path" fill="#9966CC" points="830.856 408.3 1025.385 591.993 1025.385 295.996"></polygon>
+            <polygon id="Path" fill="#864FE0" points="1025.385 888.009 1025.385 591.993 830.856 775.685"></polygon>
+            <polygon id="Path" fill="#9353FB" points="194.526 408.3 353.609 316.458 256.344 148"></polygon>
+            <polygon id="Path" fill="#BA9AED" points="256.344 148 353.609 316.458 512.692 224.612"></polygon>
+            <polygon id="Path" fill="#864FE0" points="512.692 1183.982 774.643 1032.755 512.692 959.381"></polygon>
+            <polygon id="Path" fill="#5304d4" points="1025.385 888.009 830.856 775.685 774.643 1032.755"></polygon>
+            <polygon id="Path" fill="#A671FC" points="671.78 867.526 774.643 1032.755 830.856 775.685"></polygon>
+            <polygon id="Path" fill="#A881E9" points="512.692 959.381 774.643 1032.755 774.643 1032.755 671.78 867.526"></polygon>
+            <polygon id="Path" fill="#7536DC" points="512.692 959.381 256.344 1035.996 512.692 1183.982"></polygon>
+            <polygon id="Path" fill="#8944FB" points="0 888.009 256.344 1035.996 194.526 775.685"></polygon>
+            <polygon id="Path" fill="#A881E9" points="194.526 775.685 256.344 1035.996 353.609 867.526"></polygon>
+            <polygon id="Path" fill="#7536DC" points="353.609 867.526 256.344 1035.996 512.692 959.381"></polygon>
+            <polygon id="Path" fill="#7536DC" points="830.856 408.3 830.856 591.993 1025.385 591.993"></polygon>
+            <polygon id="Path" fill="#C29EFD" points="1025.385 591.993 830.856 591.993 830.856 775.685"></polygon>
+            <polygon id="Path" fill="#641DD8" points="774.643 151.234 512.692 224.612 671.78 316.458 774.643 151.239"></polygon>
+            <polygon id="Path" fill="#641DD8" points="774.643 151.239 671.78 316.458 830.856 408.3"></polygon>
+        </g>
+        <text id="LuckyDraw" font-family="Helvetica-Bold, Helvetica" font-size="560" font-weight="bold" fill="#4A4A4A">
+            <tspan x="1367" y="861">undian.prenges</tspan>
+        </text>
+        <text id=".me" font-family="Helvetica-Bold, Helvetica" font-size="400" font-weight="bold" fill="#641dd8">
+            <tspan x="5880" y="861">.com</tspan>
+        </text>
+    </g>
+</svg>
